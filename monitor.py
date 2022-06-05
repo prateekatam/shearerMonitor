@@ -69,7 +69,6 @@ if __name__ == "__main__":
 		dictionary ={
 				"positions" : []
 		}
-				
 		with open("sample.json", "w") as outfile:
 				json.dump(dictionary, outfile)
 

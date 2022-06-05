@@ -1,3 +1,4 @@
-To monitor the shearer. Check its online status and store the data to db
+To monitor the shearer. Check its online status and store the data to db.
+Currently stores in a json file.
 
 python monitor.py
