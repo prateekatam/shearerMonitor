@@ -1,0 +1,3 @@
+To monitor the shearer. Check its online status and store the data to db
+
+python monitor.py
